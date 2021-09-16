@@ -8,7 +8,6 @@
             "name": "Box Ui Playground",
             "cwd": "example",
             "request": "launch",
-            "program": "lib/main.dart",
             "type": "dart"
         }
     ]
